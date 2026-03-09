@@ -1,0 +1,10 @@
+*.exe
+*.o
+*.obj
+a.out
+compress
+*.dll
+*.so
+*.log
+*.tmp
+*.~
